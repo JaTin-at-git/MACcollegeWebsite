@@ -37,6 +37,10 @@ body {
     -moz-text-fill-color: transparent;
 }
 
+.society-about .society-name{
+    justify-content: flex-start;
+}
+
 .society-logo img{
     max-width: 150px;
     max-height: 80px;
